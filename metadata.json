@@ -1,0 +1,8 @@
+{
+  "name": "Omniora",
+  "description": "A futuristic multi-domain micro-learning platform with gamified progress tracking and AI-powered content generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
